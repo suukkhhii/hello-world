@@ -1,2 +1,1 @@
-# hello-world
-This is my first repository regarding Hello World
+My name is Sukhvinder Singh and I love to know and work on new things in my life..
